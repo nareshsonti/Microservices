@@ -1,0 +1,9 @@
+server:
+  port: 9001
+cloud:
+  aws:    credentials:      access-key: AKIASPMQNMTUWTHZKP6J
+      secret-key: 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
+    stack:      auto: false
+    region:      static:   us-east-1
+    end-point:
+           uri: https://sqs.us-west-2.amazonaws.com/170490946793/java-sqs
