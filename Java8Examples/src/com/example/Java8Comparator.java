@@ -20,7 +20,7 @@ public class Java8Comparator {
 		
 // String : using lamda expression
 		List<String> list = new ArrayList();
-		list.add("tmobile");
+		
 		list.add("sdet");
 		list.add("java");
 		//list.sort((String obj1, String obj2) -> obj2.compareTo(obj1));
